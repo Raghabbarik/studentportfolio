@@ -1,0 +1,203 @@
+{
+  "name": "Raghab ",
+  "role": "B.Tech Computer Science & Engineering Student",
+  "headline": "Clean interfaces.\nRobust algorithms.\nNext-gen systems.",
+  "bio": "I am a 3rd-year B.Tech Computer Science & Engineering student at the Institute of Technology with a strong foundation in Data Structures, Algorithms, Distributed Systems, and Modern Full-Stack Engineering.\n\nI combine analytical problem solving (350+ LeetCode problems solved) with an eye for fluid, human-centered UI design. Currently focused on building edge-computed web applications, modular component architectures, and scalable developer tools.",
+  "location": "India",
+  "email": "student6techxera@gmail.com",
+  "availability": "Open for 2026 Software Engineering Internships",
+  "photo": "",
+  "resume": "https://example.com/resume-btech-cse.pdf",
+  "github": "https://github.com",
+  "linkedin": "https://linkedin.com",
+  "instagram": "",
+  "accent": "#ff3877",
+  "layout": "split",
+  "skills": [
+    "Data Structures & Algorithms",
+    "React / Next.js",
+    "TypeScript",
+    "C++ / Python",
+    "Node.js & Express",
+    "PostgreSQL & SQLite (D1)",
+    "Operating Systems & Linux",
+    "Computer Networks",
+    "Tailwind CSS",
+    "Docker & Cloudflare Workers"
+  ],
+  "projects": [
+    {
+      "title": "Campus Connect",
+      "category": "Full-Stack Web Systems",
+      "description": "A high-performance campus collaboration hub with real-time event streaming, role-based student access, and relational database schemas designed for 10,000+ university users.",
+      "url": "https://example.com/campus-connect",
+      "githubUrl": "https://github.com/student06/campus-connect",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
+      "year": "2026",
+      "tags": [
+        "Full-Stack",
+        "Distributed Systems",
+        "WebSockets"
+      ],
+      "color": "var(--ca-blue)",
+      "challenge": "Campus organizations struggled with fragmented communication across scattered group chats, lost club announcements, and severe server latency during peak university registration events.",
+      "approach": "Designed a clean event-driven architecture using Next.js, Cloudflare Workers, and WebSocket channels for sub-100ms real-time broadcast and optimistic UI state caching.",
+      "metrics": [
+        {
+          "value": "47%",
+          "label": "Faster load times",
+          "desc": "optimistic caching"
+        },
+        {
+          "value": "10k+",
+          "label": "Simulated users",
+          "desc": "stress-tested concurrency"
+        },
+        {
+          "value": "99.9%",
+          "label": "Availability",
+          "desc": "zero downtime deployment"
+        }
+      ]
+    },
+    {
+      "title": "Everyday Studio",
+      "category": "Algorithmic Habit Engine",
+      "description": "A focused daily productivity engine featuring custom streak-tracking algorithms, offline-first local storage sync, and sub-16ms render loop interactions.",
+      "url": "https://example.com/everyday-studio",
+      "githubUrl": "https://github.com/student06/everyday-studio",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=1200&auto=format&fit=crop",
+      "year": "2026",
+      "tags": [
+        "Algorithms",
+        "Offline-First",
+        "Local-First UX"
+      ],
+      "color": "var(--ca-ink)",
+      "challenge": "Most habit trackers resemble dreary spreadsheets, lose streak accuracy across varying time zones, and stall when network signals drop on commuter trains.",
+      "approach": "Formulated a time-zone invariant streak algorithm backed by SQLite/IndexedDB offline replication, rendering fluid 60fps micro-animations for each check-in.",
+      "metrics": [
+        {
+          "value": "+58%",
+          "label": "Completion rate",
+          "desc": "streak continuity"
+        },
+        {
+          "value": "<16ms",
+          "label": "Render latency",
+          "desc": "smooth 60fps interactions"
+        },
+        {
+          "value": "100%",
+          "label": "Offline support",
+          "desc": "instant local-first sync"
+        }
+      ]
+    },
+    {
+      "title": "Personal Playground",
+      "category": "Computer Graphics & Simulations",
+      "description": "An interactive WebGL & Canvas physics simulation environment exploring spring dynamics, particle collisions, and custom mathematical easing curves.",
+      "url": "https://example.com/playground",
+      "githubUrl": "https://github.com/student06/physics-playground",
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?q=80&w=1200&auto=format&fit=crop",
+      "year": "2026",
+      "tags": [
+        "WebGL",
+        "Physics Simulation",
+        "TypeScript"
+      ],
+      "color": "var(--ca-orange)",
+      "challenge": "Browser physics engines often buckle under heavy particle loads, causing skipped frames and jittery visual feedback during complex multi-body collisions.",
+      "approach": "Programmed a custom lightweight Verlet integration pipeline with spatial hashing for O(N log N) collision queries, completely written from scratch in TypeScript.",
+      "metrics": [
+        {
+          "value": "60 FPS",
+          "label": "Fluid frame rate",
+          "desc": "2,000+ physics particles"
+        },
+        {
+          "value": "350+",
+          "label": "LeetCode solved",
+          "desc": "algorithms mastery"
+        },
+        {
+          "value": "0 deps",
+          "label": "Zero libraries",
+          "desc": "pure mathematical canvas"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Institute of Technology",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "period": "2024 - 2028",
+      "detail": "CGPA: 9.2/10.0. Core Courses: Data Structures & Algorithms, Object-Oriented Programming (Java/C++), Database Management Systems (DBMS), Operating Systems, Computer Networks, Discrete Mathematics."
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Design & Code Systems Lab",
+      "role": "Software Engineering & UI Intern",
+      "period": "Summer 2025",
+      "detail": "Engineered modular component libraries, profiled and reduced frontend bundle sizes by 34%, and integrated edge-deployed serverless endpoints."
+    },
+    {
+      "company": "Open Source & University ACM Chapter",
+      "role": "Technical Lead & Contributor",
+      "period": "2024 - Present",
+      "detail": "Organized algorithmic problem-solving bootcamps for 200+ junior students and contributed features to popular open-source web developer toolkits."
+    }
+  ],
+  "achievements": [
+    "Ranked in top 5% of B.Tech CSE cohort with 9.2 CGPA",
+    "1st Place in University Inter-College Hackathon 2025 (Campus Innovation Track)",
+    "Solved 350+ LeetCode problems across Graphs, Dynamic Programming, and Trees",
+    "Published open-source React component toolkit with 1,200+ GitHub stars"
+  ],
+  "showEducation": true,
+  "showExperience": true,
+  "showAchievements": true,
+  "lastUpdated": "2026-11-02T09:55:04.455Z",
+  "gallery": [
+    {
+      "caption": "my workspace · 2026",
+      "src": "https://images.unsplash.com/photo-1663298172343-9238ba22cd30?q=80&w=927&auto=format&fit=crop",
+      "tilt": "-rotate-3"
+    },
+    {
+      "caption": "hackathon build",
+      "src": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=927&auto=format&fit=crop",
+      "tilt": "rotate-2"
+    },
+    {
+      "caption": "terminal vibes",
+      "src": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=927&auto=format&fit=crop",
+      "tilt": "-rotate-2"
+    },
+    {
+      "caption": "practice & shipping",
+      "src": "https://images.unsplash.com/photo-1602471615287-d733c59b79c4?q=80&w=927&auto=format&fit=crop",
+      "tilt": "rotate-3"
+    }
+  ],
+  "principles": [
+    {
+      "title": "Start with the why",
+      "body": "Before writing a line of code or picking a database, I drill into what problem we are actually solving. Clean engineering begins with better questions, not premature abstractions.",
+      "note": "questions before code."
+    },
+    {
+      "title": "Design for a bad day",
+      "body": "Nobody uses software on pristine fiber optic with zero distractions. I engineer for spotty 4G, throttled CPUs, and confusing empty states. That's where quality shows.",
+      "note": "latency matters."
+    },
+    {
+      "title": "Build with the team",
+      "body": "The best systems come from teammates poking holes early in whiteboard designs. Clear documentation, strict type contracts, and humble collaboration always beat isolated code.",
+      "note": "us, not me."
+    }
+  ]
+}

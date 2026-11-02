@@ -1,0 +1,23 @@
+import type { Metadata } from 'next';
+import './globals.css';
+import './portfolio-base.css';
+import './creative-portfolio.css';
+
+export const metadata: Metadata = {
+  title: 'Portfolio',
+  description: 'Selected work, skills, and the story behind them.',
+  icons: {
+    icon: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>',
+  },
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en">
+      <head>
+        <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'/>" />
+      </head>
+      <body>{children}</body>
+    </html>
+  );
+}

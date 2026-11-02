@@ -1,0 +1,93 @@
+{
+  "profile": {
+    "name": "Subham",
+    "role": "UI / UX Designer & Creative Developer",
+    "headline": "Simple design.\nMeaningful experiences.",
+    "bio": "I’m a student exploring the intersection of modern design and intuitive frontend technology. I craft thoughtful, high-performance digital experiences with clean aesthetics, learning new design systems, and building tools that make everyday interactions delightful.\n\nWelcome to my portfolio! Explore my featured projects, educational journey, and core design toolkit below.",
+    "location": "India",
+    "email": "student2techxera@gmail.com",
+    "availability": "Open to internships & collaborations",
+    "photo": "https://thumbs.dreamstime.com/b/cheerful-young-indian-college-student-eyeglasses-sitting-table-man-heap-books-public-library-preparing-367585012.jpg",
+    "resume": "",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "instagram": "https://instagram.com",
+    "accent": "#9745d8",
+    "layout": "centered",
+    "skills": [
+      "Figma & Prototyping",
+      "UI / UX Design",
+      "React & Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Design Systems",
+      "JavaScript (ES6+)",
+      "Python",
+      "Creative Coding",
+      "Problem Solving"
+    ],
+    "projects": [
+      {
+        "title": "Campus Connect",
+        "category": "Web Development",
+        "description": "A centralized campus community platform designed for students to discover upcoming academic events, collaborate on technical projects, and share educational resources seamlessly.",
+        "url": "https://example.com/campus-connect",
+        "image": "",
+        "year": "2026"
+      },
+      {
+        "title": "Everyday Studio",
+        "category": "Product Design",
+        "description": "A clean, minimalist productivity suite that simplifies daily routine tracking through an approachable, gesture-driven user interface and contextual micro-interactions.",
+        "url": "https://example.com/everyday-studio",
+        "image": "",
+        "year": "2026"
+      },
+      {
+        "title": "Personal Playground",
+        "category": "Creative Coding",
+        "description": "An interactive digital sandbox showcasing experimental canvas simulations, generative vector geometry, and custom CSS physics animations built during continuous learning.",
+        "url": "https://example.com/playground",
+        "image": "",
+        "year": "2026"
+      }
+    ],
+    "education": [
+      {
+        "school": "Institute of Technology & Design",
+        "degree": "Bachelor of Technology in Computer Science & Design",
+        "period": "2024 — 2028",
+        "detail": "Focusing on Human-Computer Interaction, Modern Web Architecture, and Digital Product Innovation."
+      }
+    ],
+    "experiences": [
+      {
+        "company": "TechXera Innovations",
+        "role": "UI/UX & Frontend Intern",
+        "period": "2026",
+        "detail": "Designed responsive user interfaces in Figma, built reusable React components, and improved application accessibility across mobile and desktop breakpoints."
+      }
+    ],
+    "achievements": [
+      "Finalist at National Student UI/UX Hackathon 2026",
+      "Certified in Advanced Design Systems & Interaction Design",
+      "Published open-source component library with 1,000+ downloads"
+    ],
+    "showEducation": true,
+    "showExperience": true,
+    "showAchievements": true
+  },
+  "revision": 11,
+  "updatedAt": "2026-11-02T14:08:11.051Z",
+  "messages": [
+    {
+      "id": "msg_1793617214456_virnz",
+      "name": "Sarah Tech Recruiter",
+      "email": "sarah.recruiter@techxera.com",
+      "subject": "Lead UI/UX Designer Role",
+      "message": "Hi! We were deeply impressed with your projects and would love to invite you for an interview.",
+      "date": "2026-11-02T11:00:14.456Z",
+      "read": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Kavach — Campus Transit & Night Safety App",
+    "category": "UI/UX & Interaction Design",
+    "description": "A comprehensive mobile safety and transit ecosystem designed for university students. Features low-light night mode, real-time campus shuttle tracking, SOS safety circles, and high-contrast accessibility validated through field user research with 80+ campus residents.",
+    "url": "https://github.com/aarav-design/kavach-campus-safety",
+    "image": "",
+    "year": "2026"
+  },
+  {
+    "title": "Prism — Multi-Brand Design Token Architecture",
+    "category": "Design Systems & Code",
+    "description": "An end-to-end design token pipeline bridging Figma tokens with React and Tailwind CSS. Built with automated semantic color modes, WCAG AAA contrast guarantees, fluid typography scales, and synchronized documentation for designers and engineers.",
+    "url": "https://github.com/aarav-design/prism-design-system",
+    "image": "",
+    "year": "2025"
+  },
+  {
+    "title": "Aura — Circadian Health & Wearable Interface",
+    "category": "HCI & Wearable UX",
+    "description": "A biometric smart watch interface and tactile micro-interaction study that adapts its glanceable typography, ambient glow, and information density based on the user’s natural circadian rhythms and daylight exposure.",
+    "url": "https://github.com/aarav-design/aura-circadian-wearable",
+    "image": "",
+    "year": "2025"
+  },
+  {
+    "title": "Algocraft — Spatial Algorithm & Graph Playground",
+    "category": "Creative Coding & Web",
+    "description": "An interactive web visualizer turning abstract graph algorithms, tree balancing, and sorting techniques into spatial, tactile simulations for design and engineering students. Built with React, Canvas API, and Web Audio.",
+    "url": "https://github.com/aarav-design/algocraft-interactive",
+    "image": "",
+    "year": "2024"
+  }
+]

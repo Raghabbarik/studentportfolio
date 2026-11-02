@@ -1,0 +1,82 @@
+{
+  "name": "NAME",
+  "role": "Creative Developer",
+  "headline": "Architecting Scalable Systems.\nDesigned for Tomorrow.",
+  "bio": "Welcome to my refreshed portfolio. Changes made in admin panel sync directly and instantly!",
+  "location": "India",
+  "email": "student1techxera@gmail.com",
+  "availability": "Open to internships & collaborations",
+  "photo": "",
+  "resume": "",
+  "github": "https://github.com",
+  "linkedin": "https://linkedin.com",
+  "instagram": "https://instagram.com",
+  "accent": "#3157eb",
+  "layout": "editorial",
+  "skills": [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Python",
+    "Cloudflare",
+    "Tailwind CSS"
+  ],
+  "projects": [
+    {
+      "title": "Neural Canvas",
+      "category": "AI & Creative Tech",
+      "description": "An AI-powered generative design tool built with Next.js and WebGPU.",
+      "url": "https://github.com/techxera/neural-canvas",
+      "image": "",
+      "year": "2026"
+    },
+    {
+      "title": "Campus Connect",
+      "category": "Web development",
+      "description": "A comprehensive campus community platform for sharing events, opportunities, and learning resources in one unified hub.",
+      "url": "https://github.com",
+      "image": "",
+      "year": "2026"
+    },
+    {
+      "title": "Everyday Studio",
+      "category": "Product design",
+      "description": "A refined design exploration making daily creative habits effortless through an approachable, minimal interface.",
+      "url": "https://github.com",
+      "image": "",
+      "year": "2026"
+    },
+    {
+      "title": "Personal Playground",
+      "category": "Creative coding",
+      "description": "A curated collection of interactive experiments, algorithmic art, micro-tools, and prototype interactions built while exploring new technology.",
+      "url": "https://github.com",
+      "image": "",
+      "year": "2026"
+    }
+  ],
+  "education": [
+    {
+      "school": "Your College or University",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "period": "2024 — 2028",
+      "detail": "Core coursework: Data Structures, Web Systems, Human-Computer Interaction, and Software Engineering."
+    }
+  ],
+  "experiences": [
+    {
+      "company": "TechXera Innovation Lab",
+      "role": "Frontend Developer Intern",
+      "period": "2026",
+      "detail": "Engineered responsive modern web components, optimized user performance, and participated in sprint reviews."
+    }
+  ],
+  "achievements": [
+    "Finalist at University National Hackathon 2026",
+    "Google Developer Student Club Core Member",
+    "Published open-source React component toolkit"
+  ],
+  "showEducation": true,
+  "showExperience": true,
+  "showAchievements": true
+}

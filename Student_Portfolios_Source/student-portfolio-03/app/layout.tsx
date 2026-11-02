@@ -1,0 +1,26 @@
+import type { Metadata } from 'next';
+import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/next';
+import './globals.css';
+import './portfolio-base.css';
+import './creative-portfolio.css';
+
+export const metadata: Metadata = {
+  title: 'Portfolio',
+  description: 'Portfolio of Satyam Mallik. Selected engineering work, interactive applications, system architecture, and technical capabilities.',
+  icons: {
+    icon: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>'
+  }
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en" className="scroll-smooth">
+      <body>
+        {children}
+        <Analytics />
+        <SpeedInsights />
+      </body>
+    </html>
+  );
+}

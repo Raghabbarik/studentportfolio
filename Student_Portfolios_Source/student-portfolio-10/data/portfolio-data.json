@@ -1,0 +1,165 @@
+{
+  "name": "Satyam Mallik",
+  "role": "Full Stack Engineer & AI Systems Architect",
+  "headline": "Crafting Scalable Cloud Systems\n& High-Impact Intelligent Software.",
+  "bio": "I am a software engineer and student researcher driven by the synergy between resilient backend architectures, intuitive human interfaces, and applied artificial intelligence.\n\nOver the past few years, I have architected high-concurrency microservices, contributed to open-source developer toolchains, and engineered production-grade vector search platforms. When I'm not writing code, I mentor aspiring developers, lead hackathons, and research distributed consensus algorithms.",
+  "location": "Bhubaneswar, India",
+  "email": "student10techxera@gmail.com",
+  "phone": "+91 98765 43210",
+  "availability": "Available for Summer 2026 Internships & High-Impact Engineering Roles",
+  "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+  "resume": "https://example.com/satyam-resume.pdf",
+  "github": "https://github.com/satyam-mallik",
+  "linkedin": "https://linkedin.com/in/satyam-mallik",
+  "instagram": "https://instagram.com/satyam.codes",
+  "twitter": "https://x.com/satyam_tech",
+  "accent": "#0f766e",
+  "layout": "editorial",
+  "stats": [
+    {
+      "label": "Years Engineering",
+      "value": "3+",
+      "subtext": "Continuous building & shipping"
+    },
+    {
+      "label": "Production Projects",
+      "value": "12+",
+      "subtext": "Full stack, AI & cloud systems"
+    },
+    {
+      "label": "Open Source PRs",
+      "value": "45+",
+      "subtext": "Merged into modern toolchains"
+    },
+    {
+      "label": "Hackathons Won",
+      "value": "4x",
+      "subtext": "National & university podiums"
+    }
+  ],
+  "skills": [
+    "TypeScript",
+    "React / Next.js",
+    "Node.js",
+    "Python",
+    "Go",
+    "Distributed Systems",
+    "PostgreSQL",
+    "FastAPI",
+    "Docker & Kubernetes",
+    "Cloudflare Workers",
+    "Vector Databases (Pinecone/Milvus)",
+    "GraphQL & REST",
+    "Tailwind CSS",
+    "System Design & Microservices"
+  ],
+  "projects": [
+    {
+      "title": "NexusCloud - Distributed Task Orchestrator",
+      "category": "Cloud & Distributed Systems",
+      "description": "High-throughput task queue and orchestrator built with Go and Redis, capable of processing 45,000 tasks/second with end-to-end telemetry and automated circuit breaking.",
+      "url": "https://nexuscloud.demo",
+      "github": "https://github.com/satyam-mallik/nexus-cloud",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80",
+      "year": "2026",
+      "technologies": [
+        "Go",
+        "Redis",
+        "gRPC",
+        "Prometheus",
+        "Docker"
+      ],
+      "featured": true
+    },
+    {
+      "title": "SynapseAI - Semantic Knowledge Graph",
+      "category": "Artificial Intelligence",
+      "description": "Multi-agent document synthesis platform indexing scientific corpora into an interactive vector space with RAG verification and sub-50ms citation queries.",
+      "url": "https://synapseai.demo",
+      "github": "https://github.com/satyam-mallik/synapse-ai",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+      "year": "2026",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "Milvus",
+        "Next.js",
+        "LangChain"
+      ],
+      "featured": true
+    },
+    {
+      "title": "FlowState - Real-time Collaborative Canvas",
+      "category": "Web Applications",
+      "description": "Infinite canvas powered by WebSockets and CRDTs allowing seamless multi-user collaboration, state synchronization, vector charting, and live cursor tracking.",
+      "url": "https://flowstate.demo",
+      "github": "https://github.com/satyam-mallik/flow-state",
+      "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=1200&q=80",
+      "year": "2026",
+      "technologies": [
+        "React 19",
+        "WebSockets",
+        "Yjs / CRDT",
+        "Tailwind CSS",
+        "Canvas API"
+      ],
+      "featured": true
+    },
+    {
+      "title": "AuraPay - Web3 Micro-settlement SDK",
+      "category": "Fintech & SDKs",
+      "description": "Zero-fee layer-2 state channel payment gateway enabling streaming micropayments for API providers with instant cryptographic settlement.",
+      "url": "https://aurapay.demo",
+      "github": "https://github.com/satyam-mallik/aurapay-sdk",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80",
+      "year": "2025",
+      "technologies": [
+        "TypeScript",
+        "Solidity",
+        "Node.js",
+        "Ethers.js",
+        "Vite"
+      ],
+      "featured": false
+    }
+  ],
+  "education": [
+    {
+      "school": "Institute of Technical Education and Research (ITER)",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "period": "2023 — 2027",
+      "detail": "Specialization in Artificial Intelligence and Cloud Computing. CGPA: 9.2/10. Secretary of the Open Source Society and Lead Organizer for HackITER 2025."
+    },
+    {
+      "school": "Delhi Public School",
+      "degree": "Higher Secondary (CBSE - Science)",
+      "period": "2021 — 2023",
+      "detail": "Graduated with 95.4% aggregate. National Science Olympiad Finalist and School Coding Club President."
+    }
+  ],
+  "experiences": [
+    {
+      "company": "TechXera Labs",
+      "role": "Software Engineering Intern",
+      "period": "May 2025 — Present",
+      "detail": "Architected low-latency microservices handling millions of daily events. Reduced API p99 latency by 38% through caching strategies and distributed connection pooling."
+    },
+    {
+      "company": "Open Source Initiative",
+      "role": "Core Contributor & Mentor",
+      "period": "2024 — Present",
+      "detail": "Contributed performance optimizations to modern JavaScript runtime tooling, authored documentation, and mentored 15+ student contributors across 4 hackathons."
+    }
+  ],
+  "achievements": [
+    "Winner — National Cloud & AI Hackathon 2025 (1st place out of 450+ competing teams)",
+    "Published Research Paper on Distributed Vector Indexing in IEEE Student Symposium 2025",
+    "AWS Certified Solutions Architect – Associate (2025)",
+    "Top 1% Global Rank on LeetCode & Codeforces Candidate Master",
+    "Top 5 Finalist - Global AI Hackathon 2026"
+  ],
+  "showEducation": true,
+  "showExperience": true,
+  "showAchievements": true,
+  "showStats": true
+}

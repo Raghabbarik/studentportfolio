@@ -1,0 +1,18 @@
+import type {Metadata} from 'next';
+import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/next';
+import './globals.css';
+import './portfolio-base.css';
+import './creative-portfolio.css';
+export const metadata:Metadata={title:'Student 07 Portfolio',description:'Selected work, skills, and the story behind them.',icons:{icon:'/favicon.svg'}};
+export default function RootLayout({children}:{children:React.ReactNode}){
+  return (
+    <html lang="en">
+      <body>
+        {children}
+        <Analytics />
+        <SpeedInsights />
+      </body>
+    </html>
+  );
+}

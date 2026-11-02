@@ -1,0 +1,80 @@
+{
+  "profile": {
+    "name": "Subham",
+    "role": "Python developer",
+    "headline": "Small experiments.\nBig possibilities.",
+    "bio": "I’m a student exploring the space between design and technology. I enjoy turning thoughtful ideas into useful digital experiences, learning new tools, and building things that make everyday life a little better.\n\nThis is sample content. Replace it with your own story, work, and achievements in the portfolio editor.",
+    "location": "India",
+    "email": "student08@example.com",
+    "availability": "Open to internships & collaborations",
+    "photo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTEyL3Jhd3BpeGVsX29mZmljZV8zNl9waG90b19vZl95b3VuZ19pbmRpYW5fZ2lybF9ob2xkaW5nX3N0dWRlbnRfYl81ZmVkNmMzMy01ZWU0LTRjY2MtYmNiZS1kZWVlOWQyNTBmMWYtbTRzODZ3b2gucG5n.png",
+    "resume": "",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "instagram": "",
+    "accent": "#32633b",
+    "layout": "editorial",
+    "skills": [
+      "Python",
+      "Django / FastAPI",
+      "React",
+      "JavaScript / TypeScript",
+      "UI/UX Design",
+      "PostgreSQL",
+      "Git & GitHub",
+      "Problem Solving"
+    ],
+    "projects": [
+      {
+        "title": "Campus Connect",
+        "category": "Web development",
+        "description": "A centralized campus community platform for sharing events, academic opportunities, and study resources in one intuitive hub.",
+        "url": "https://example.com/campus-connect",
+        "image": "",
+        "year": "2026"
+      },
+      {
+        "title": "Everyday Studio",
+        "category": "Product design",
+        "description": "A minimalist productivity dashboard and habit tracker focused on mindful daily workflows with clean visual analytics.",
+        "url": "https://example.com/everyday-studio",
+        "image": "",
+        "year": "2026"
+      },
+      {
+        "title": "Automated Data Pipeline",
+        "category": "Python & Data",
+        "description": "Python-based asynchronous data extraction, scraping, and real-time visualization tool with automated scheduled reporting.",
+        "url": "https://example.com/data-pipeline",
+        "image": "",
+        "year": "2026"
+      }
+    ],
+    "education": [
+      {
+        "school": "National Institute of Technology",
+        "degree": "B.Tech in Computer Science & Engineering",
+        "period": "2024 — 2028",
+        "detail": "Focusing on Algorithms, System Architecture, and Software Engineering. Active member of Coding and Open Source clubs."
+      }
+    ],
+    "experiences": [
+      {
+        "company": "Tech Innovators Lab",
+        "role": "Software Development Intern",
+        "period": "Summer 2025",
+        "detail": "Built backend REST APIs using Python & FastAPI. Optimized database query performance and created reusable frontend UI components."
+      }
+    ],
+    "achievements": [
+      "1st Place in Inter-College Hackathon 2025 (Web & AI Category)",
+      "Published open-source Python CLI tool with 200+ stars on GitHub",
+      "Certified in Advanced Python Programming and Web Development"
+    ],
+    "showEducation": true,
+    "showExperience": true,
+    "showAchievements": true
+  },
+  "revision": 12,
+  "updatedAt": "2026-11-02T10:05:43.723Z"
+}

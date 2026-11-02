@@ -1,0 +1,91 @@
+{
+  "profile": {
+    "name": "Raghab",
+    "role": "Full-Stack Engineer & Interaction Designer",
+    "headline": "web_developer",
+    "bio": "Rewritten instantly into projects.json on local hard drive at 2026-11-02T06:52:55.203Z",
+    "location": "Bengaluru, India",
+    "email": "student4techxera@gmail.com",
+    "availability": "Available for Summer 2026 Internships & Freelance Projects",
+    "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1000&auto=format&fit=crop",
+    "resume": "",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "instagram": "https://instagram.com",
+    "accent": "#f4e56b",
+    "layout": "editorial",
+    "skills": [
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Python",
+      "Tailwind CSS",
+      "REST APIs",
+      "PostgreSQL",
+      "Docker",
+      "Figma",
+      "Git"
+    ],
+    "projects": [
+      {
+        "title": "Wayline",
+        "category": "Mobility & Transit",
+        "description": "Making a whole city's transit app feel less like decoding a puzzle with live line-status, intuitive multimodal routing, and delightful map animations.",
+        "url": "https://github.com",
+        "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2069&auto=format&fit=crop",
+        "year": "2026"
+      },
+      {
+        "title": "Tandem",
+        "category": "Fintech & Mobile",
+        "description": "From 'who owes who' to money that finally feels shared. Collaborative shared vaults, real-time split billing, and transparent spending for groups.",
+        "url": "https://github.com",
+        "image": "https://cdn.dribbble.com/userupload/13712927/file/original-963ef9be53325cefd88bec052cdf2aa6.png?resize=2048x1536&vertical=center",
+        "year": "2026"
+      },
+      {
+        "title": "Forge",
+        "category": "Developer Tools",
+        "description": "Getting a new engineer from day one to shipping code without the panic. Automated workspace staging, guided micro-tasks, and cloud sandbox isolation.",
+        "url": "https://github.com",
+        "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=2070&auto=format&fit=crop",
+        "year": "2026"
+      },
+      {
+        "title": "Volt",
+        "category": "Climate & Data",
+        "description": "Helping homeowners and renters actually understand the energy they consume through tactile charts, live telemetry, and automated carbon offsets.",
+        "url": "https://github.com",
+        "image": "https://cdn.dribbble.com/userupload/45634536/file/78267e4a088043e8a75ea78d6ecafce9.png?resize=2048x1536&vertical=center",
+        "year": "2026"
+      }
+    ],
+    "education": [
+      {
+        "school": "National Institute of Technology",
+        "degree": "B.Tech in Computer Science & Engineering",
+        "period": "2024 - 2028",
+        "detail": "Focus on Data Structures, Distributed Systems, Modern Web Architecture, and Human-Computer Interaction."
+      }
+    ],
+    "experiences": [
+      {
+        "company": "TechXera Open Labs",
+        "role": "Frontend Engineering Intern",
+        "period": "Summer 2025",
+        "detail": "Engineered real-time collaboration widgets, optimized render loops, and contributed to design system accessibility."
+      }
+    ],
+    "achievements": [
+      "1st Place, National Campus Hackathon 2025 (Built an AI-assisted accessibility reader)",
+      "Published open-source React component library with 1,200+ GitHub stars",
+      "Core contributor to campus tech community and mentorship lead for 60+ junior students"
+    ],
+    "showEducation": true,
+    "showExperience": true,
+    "showAchievements": true
+  },
+  "revision": 8,
+  "updatedAt": "2026-11-02T08:35:30.707Z"
+}

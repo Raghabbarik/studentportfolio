@@ -1,0 +1,5 @@
+import {requireChatGPTUser} from '../chatgpt-auth';
+import {permission,readProfile,studentEmail} from '../../lib/storage';
+import Editor from './editor';
+export const dynamic='force-dynamic';
+export default async function Page(){const user=await requireChatGPTUser('/edit');try{const role=await permission(user.email);if(role==='none')return <main className="unavailable"><p className="eyebrow">PRIVATE EDITOR</p><h1>Editing access is needed.</h1><p>Ask the portfolio owner to assign your signed-in email address: <strong>{user.email}</strong>.</p><a className="button" href="/">View portfolio</a><a href="/signout-with-chatgpt?return_to=/edit">Switch account</a></main>;const data=await readProfile();return <Editor initial={data.profile} initialRevision={data.revision} owner={role==='owner'} userEmail={user.email} assignedEmail={role==='owner'?await studentEmail():''}/>;}catch(error){console.error(error);return <main className="unavailable"><h1>The editor is temporarily unavailable.</h1><p>Please retry. Your saved portfolio is safe.</p><a className="button" href="/edit">Try again</a></main>;}}

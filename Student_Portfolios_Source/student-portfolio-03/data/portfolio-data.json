@@ -1,0 +1,86 @@
+{
+  "name": "Satyam Mallik",
+  "role": "Full-Stack Developer & UI Engineer",
+  "headline": "From first idea.\nTo resilient product.",
+  "bio": "I am a full-stack developer and creative technologist passionate about engineering performant web architectures and crafted user interfaces. Working across modern TypeScript ecosystems, distributed cloud APIs, and responsive design systems, I build reliable digital experiences that bridge design precision with engineering rigor.",
+  "location": "Bengaluru, India",
+  "email": "satyam.mallik@outlook.com",
+  "availability": "",
+  "photo": "https://thumbs.dreamstime.com/b/cheerful-young-indian-college-student-eyeglasses-sitting-table-man-heap-books-public-library-preparing-367585012.jpg",
+  "resume": "",
+  "github": "https://github.com/malliksatyam46",
+  "linkedin": "https://linkedin.com/in/satyam-mallik",
+  "instagram": "",
+  "accent": "#CC482A",
+  "layout": "editorial",
+  "skills": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Tailwind CSS",
+    "PostgreSQL",
+    "Python",
+    "Drizzle ORM",
+    "Cloudflare Workers",
+    "Vite",
+    "Figma",
+    "System Architecture"
+  ],
+  "projects": [
+    {
+      "title": "Campus Connect",
+      "category": "Full-Stack Web Application",
+      "description": "A unified campus collaboration network connecting students, clubs, and faculty. Features real-time notifications, event scheduling, peer resource sharing, and role-based discussions.",
+      "url": "https://github.com/malliksatyam46/campus-connect",
+      "image": "",
+      "year": "2026"
+    },
+    {
+      "title": "Everyday Studio",
+      "category": "Productivity & Interface System",
+      "description": "A minimalist productivity workspace and habit tracking tool designed with focus mode, local-first state caching, accessible keyboard shortcuts, and custom data visualizations.",
+      "url": "https://github.com/malliksatyam46/everyday-studio",
+      "image": "",
+      "year": "2026"
+    },
+    {
+      "title": "Personal Playground",
+      "category": "Creative Engineering Lab",
+      "description": "An interactive exploration of mathematical animations, micro-interactions, canvas shaders, generative SVG graphics, and performance profiling experiments.",
+      "url": "https://github.com/malliksatyam46/personal-playground",
+      "image": "",
+      "year": "2026"
+    }
+  ],
+  "education": [
+    {
+      "school": "Vellore Institute of Technology",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "period": "2024 — 2028",
+      "detail": "Core coursework in Data Structures, Database Systems, Computer Networks, Distributed Architecture, and Human-Computer Interaction."
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Open Source & Independent Projects",
+      "role": "Full-Stack Developer",
+      "period": "2025 — Present",
+      "detail": "Engineered responsive web applications and backend microservices using TypeScript, Next.js, and Cloudflare Workers with strict end-to-end type safety."
+    },
+    {
+      "company": "Student Tech Community",
+      "role": "Frontend Engineering Lead",
+      "period": "2024 — 2025",
+      "detail": "Mentored peers in modern React and TypeScript best practices, organized technical workshops, and coordinated collaborative open-source projects."
+    }
+  ],
+  "achievements": [
+    "Finalist — National Student Hackathon for Campus Connect Collaborative Platform (2025)",
+    "Dean’s List for Academic Merit & Technical Innovation (2024 — 2025)",
+    "Contributed to modern open-source UI libraries and developer utility toolkits"
+  ],
+  "showEducation": true,
+  "showExperience": true,
+  "showAchievements": true
+}
